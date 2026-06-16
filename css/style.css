@@ -454,7 +454,7 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 }
 
 /* ===== Language control ===== */
-[lang] { display: none; }
+body [lang] { display: none; }
 html[data-lang="en"] [lang="en"],
 html[data-lang="zh"] [lang="zh"] { display: revert; }
 
