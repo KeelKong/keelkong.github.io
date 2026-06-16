@@ -1,0 +1,13 @@
+# Claude
+.claude/
+
+# Private source files
+CV-Chn.tex
+CV-Eng.tex
+My Papers/
+my photo.jpg
+*.tex
+
+# macOS
+.DS_Store
+._*
